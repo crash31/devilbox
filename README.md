@@ -13,9 +13,6 @@ $ cd devilbox
 $ cp sample-env .env
 
 # Edit your configuration
-$ naon .env
-
-# Edit your configuration
 $ nano .env
 
 Important Lines:
