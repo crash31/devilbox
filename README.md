@@ -23,5 +23,15 @@ Important Lines:
 $ docker-compose up
 ```
 
+##having issues?
+Try this:
+```
+$ docker-compose stop
+$ docker-compose kill
+$ docker-compose rm -f
+$ docker-compose up
+```
+
+
 ## devilbox documentation
 https://github.com/cytopia/devilbox
